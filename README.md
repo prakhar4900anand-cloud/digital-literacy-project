@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Prakhar Anand 👋
 
-<!--
-**prakhar4900anand-cloud/prakhar4900anand-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student – VIT Bhopal  
+💻 Interested in programming and technology  
+🚀 Currently learning digital skills  
 
-Here are some ideas to get you started:
+## 📌 Goals
+- Learn coding  
+- Build projects  
+- Improve problem-solving  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Connect with me
+- LinkedIn: https://www.linkedin.com/in/prakhar-anand-7983b31a5/
